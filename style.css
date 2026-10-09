@@ -1,0 +1,16 @@
+.product-card>h2{
+    background-color: pink;
+}
+
+.product-card>h3{
+    background-color: yellow;
+}
+
+.product-card h2,.product-card h3{
+    text-align: center;
+}
+
+.product-card>img{
+    width: 100%;
+    height: 100%;
+}
